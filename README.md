@@ -6,7 +6,7 @@ This project focuses on binary sentiment analysis using Long Short-Term Memory (
 ## Technologies Used
 - **Programming Language**: Python
 - **Deep Learning Framework**: TensorFlow/Keras
-- **Dataset**: (Specify the dataset used or link to it if public)
+- **Dataset**: (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ## Features
 - **Text Classification**: The model classifies text into "positive" or "negative" sentiment categories.
